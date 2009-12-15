@@ -1,0 +1,220 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: rinpoche\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-04 11:24+0100\n"
+"PO-Revision-Date: 2009-11-15 15:44+0100\n"
+"Last-Translator: Ladislav Prskavec <ladislav@prskavec.net>\n"
+"Language-Team: Dzogchen <webmaster@dzogchen.cz>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Czech\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /home/prskavecl/src/yeshi.cz/registration\n"
+"X-Poedit-SearchPath-1: /home/prskavecl/src/yeshi.cz/application\n"
+
+#: /home/prskavecl/src/yeshi.cz/application/controllers/IndexController.php:37
+#: /home/prskavecl/src/yeshi.cz/application/forms/Registration.php:84
+msgid "Registration"
+msgstr "Registrace"
+
+#: /home/prskavecl/src/yeshi.cz/application/controllers/IndexController.php:40
+msgid "Register"
+msgstr "Provést registraci"
+
+#: /home/prskavecl/src/yeshi.cz/application/controllers/IndexController.php:144
+msgid "Registration - course with Yeshi Silvano Namkhai 27th-29th"
+msgstr "Registration - course with Yeshi Silvano Namkhai 27th-29th"
+
+#: /home/prskavecl/src/yeshi.cz/application/forms/Emails.php:29
+msgid "Mailbody"
+msgstr "Tělo mailu"
+
+#: /home/prskavecl/src/yeshi.cz/application/forms/Emails.php:36
+msgid "Lang"
+msgstr "Jazyk"
+
+#: /home/prskavecl/src/yeshi.cz/application/forms/Emails.php:38
+msgid "Czech"
+msgstr "Česky"
+
+#: /home/prskavecl/src/yeshi.cz/application/forms/Emails.php:38
+msgid "Slovak"
+msgstr "Slovensky"
+
+#: /home/prskavecl/src/yeshi.cz/application/forms/Emails.php:38
+msgid "English"
+msgstr "Anglicky"
+
+#: /home/prskavecl/src/yeshi.cz/application/forms/Emails.php:42
+msgid "Retreat"
+msgstr "Retreat"
+
+#: /home/prskavecl/src/yeshi.cz/application/forms/Emails.php:44
+msgid "Yeshi"
+msgstr "Yeshi"
+
+#: /home/prskavecl/src/yeshi.cz/application/forms/Emails.php:52
+#, fuzzy
+msgid "Email"
+msgstr "email"
+
+#: /home/prskavecl/src/yeshi.cz/application/forms/Registration.php:29
+msgid "First name *"
+msgstr "Křestní jméno *"
+
+#: /home/prskavecl/src/yeshi.cz/application/forms/Registration.php:37
+msgid "Last name *"
+msgstr "Příjmení *"
+
+#: /home/prskavecl/src/yeshi.cz/application/forms/Registration.php:46
+msgid "E-mail *"
+msgstr "E-mail *"
+
+#: /home/prskavecl/src/yeshi.cz/application/forms/Registration.php:53
+msgid "Country *"
+msgstr "Země *"
+
+#: /home/prskavecl/src/yeshi.cz/application/forms/Registration.php:55
+#: /home/prskavecl/src/yeshi.cz/application/forms/Registration.php:61
+msgid "--- Please select ---"
+msgstr "--- Prosím vyberte  ---"
+
+#: /home/prskavecl/src/yeshi.cz/application/forms/Registration.php:55
+#: /home/prskavecl/src/yeshi.cz/application/models/DbTable/Registration.php:85
+msgid "Czech Republic"
+msgstr "Česká republika"
+
+#: /home/prskavecl/src/yeshi.cz/application/forms/Registration.php:55
+#: /home/prskavecl/src/yeshi.cz/application/models/DbTable/Registration.php:88
+msgid "Slovak Republic"
+msgstr "Slovenská republika"
+
+#: /home/prskavecl/src/yeshi.cz/application/forms/Registration.php:55
+#: /home/prskavecl/src/yeshi.cz/application/models/DbTable/Registration.php:91
+msgid "EU+Other"
+msgstr "EU+Ostatní"
+
+#: /home/prskavecl/src/yeshi.cz/application/forms/Registration.php:59
+msgid "Number of days *"
+msgstr "Počet dní *"
+
+#: /home/prskavecl/src/yeshi.cz/application/forms/Registration.php:61
+#: /home/prskavecl/src/yeshi.cz/application/models/DbTable/Registration.php:68
+msgid "All"
+msgstr "Celý kurz"
+
+#: /home/prskavecl/src/yeshi.cz/application/forms/Registration.php:61
+#: /home/prskavecl/src/yeshi.cz/application/models/DbTable/Registration.php:74
+msgid "1 day"
+msgstr "1 den"
+
+#: /home/prskavecl/src/yeshi.cz/application/forms/Registration.php:65
+msgid "Remark"
+msgstr "Poznámka"
+
+#: /home/prskavecl/src/yeshi.cz/application/forms/Registration.php:73
+msgid "Price"
+msgstr "Cena"
+
+#: /home/prskavecl/src/yeshi.cz/application/lang/staticFormMessages.php:8
+msgid "isEmpty"
+msgstr "Tato položka je povinná proto nemůže být prázdná."
+
+#: /home/prskavecl/src/yeshi.cz/application/lang/staticFormMessages.php:9
+msgid "emailAddressInvalid"
+msgstr "neplatná emailová adresa (formát emailu je local-part@hostname)"
+
+#: /home/prskavecl/src/yeshi.cz/application/lang/staticFormMessages.php:11
+msgid "notSame"
+msgstr "Tokeny nesouhlasí."
+
+#: /home/prskavecl/src/yeshi.cz/application/lang/staticFormMessages.php:12
+msgid "missingToken"
+msgstr "Chybějící token."
+
+#: /home/prskavecl/src/yeshi.cz/application/models/DbTable/Registration.php:71
+msgid "2 days"
+msgstr "2 dny"
+
+#: /home/prskavecl/src/yeshi.cz/application/views/scripts/index/index.phtml:23
+msgid "Registration is completed."
+msgstr "Registrace je zkončena."
+
+#: /home/prskavecl/src/yeshi.cz/application/views/scripts/index/index.phtml:28
+msgid "* - mandatory fields"
+msgstr "* - povinné položky"
+
+#: /home/prskavecl/src/yeshi.cz/application/views/scripts/index/index.phtml:30
+msgid "If you experience technical problems during the registration, please contact blue@gmail.com"
+msgstr "Pokud máte technické problémy s registrací, kontatkujte blue@dzogchen.cz"
+
+#: /home/prskavecl/src/yeshi.cz/application/views/scripts/index/thanks.phtml:1
+msgid "Thanks for registration!"
+msgstr "Děkujeme za registraci!"
+
+#: /home/prskavecl/src/yeshi.cz/application/views/scripts/index/thanks.phtml:6
+msgid "If you experience technical problems during the registration, please contact rinpoche.cz@gmail.com"
+msgstr "Pokud máte technické problémy s registrací, kontatkujte blue@dzogchen.cz"
+
+#~ msgid ""
+#~ "Registration - course with H.H.Taklung Tsetrul Rinpoche 2nd-6th September "
+#~ "2009 in Prague"
+#~ msgstr "Registrace na kurz s Taklung Tsetrul Rinpochem 2.-6.9.2009 v Praze"
+#~ msgid "translate"
+#~ msgstr "translate"
+#~ msgid "enctype"
+#~ msgstr "enctype"
+#~ msgid "multipart/form-data"
+#~ msgstr "multipart/form-data"
+#~ msgid "firstname"
+#~ msgstr "firstname"
+#~ msgid "size"
+#~ msgstr "size"
+#~ msgid "StripTags"
+#~ msgstr "StripTags"
+#~ msgid "StringTrim"
+#~ msgstr "StringTrim"
+#~ msgid "lastname"
+#~ msgstr "lastname"
+#~ msgid "40"
+#~ msgstr "40"
+#~ msgid "country"
+#~ msgstr "country"
+#~ msgid "days"
+#~ msgstr "days"
+#~ msgid "rem"
+#~ msgstr "rem"
+#~ msgid "rows"
+#~ msgstr "rows"
+#~ msgid "cols"
+#~ msgstr "cols"
+#~ msgid "price"
+#~ msgstr "price"
+#~ msgid "label"
+#~ msgstr "label"
+#~ msgid "class"
+#~ msgstr "class"
+#~ msgid "notdisplay"
+#~ msgstr "notdisplay"
+#~ msgid "hash"
+#~ msgstr "hash"
+#~ msgid "csrf_token"
+#~ msgstr "csrf_token"
+#~ msgid "salt"
+#~ msgstr "salt"
+#~ msgid "wiT93nUb90sENdsa:"
+#~ msgstr "wiT93nUb90sENdsa:"
+#~ msgid "submit"
+#~ msgstr "submit"
+#~ msgid "id"
+#~ msgstr "id"
+#~ msgid "submitbutton"
+#~ msgstr "submitbutton"
+

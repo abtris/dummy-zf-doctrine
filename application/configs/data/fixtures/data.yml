@@ -1,0 +1,14 @@
+Users:
+  Users_1:
+    name: Honza
+    email: honza@email.cz
+    Groups: Groups_1
+  Users_2:
+    name: Bara
+    email: bara@email.cz
+    Groups: Groups_1
+Groups:
+  Groups_1:
+    name: Uživatelé
+  Groups_2:
+    name: Administrátoři

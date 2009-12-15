@@ -1,0 +1,31 @@
+options:
+    type: INNODB
+    collate: utf8_general_ci
+    charset: utf8
+Users:
+  columns:
+    idUser:
+      type: integer(4)
+      primary: true
+      autoincrement: true
+    name: string(255)
+    phone: string(30)
+    email:
+      type: string(255)
+      notnull: true
+    password: string(255)
+    ban: boolean
+    groupMember: integer(4)
+  relations:
+    Groups:
+        local: groupMember
+        foreign: idGroup
+Groups:
+  columns:
+    idGroup:
+        type: integer(4)
+        primary: true
+        autoincrement: true
+    name:
+        type: string(255)
+        notnull: true
